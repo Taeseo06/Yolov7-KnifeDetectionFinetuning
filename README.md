@@ -16,4 +16,5 @@
 
 <br>
 
-### YOLOv7 파인튜닝 학습한 모델: [Hugging Face 허깅페이스 모델](https://huggingface.co/taeseo06/Yolov7-KnifeDetectionFinetuningModel/tree/main)
+ 
+### YOLOv7 파인튜닝 학습한 모델: <a href="https://huggingface.co/taeseo06/Yolov7-KnifeDetectionFinetuningModel/tree/main">Hugging Face 허깅페이스 모델</a> 
