@@ -1,5 +1,6 @@
 # Yolov7-KnifeDetectionFinetuning
 선린 2학년 주제연구(자유주제) 시간에 개발, 발표한 Yolov7 파인튜닝 프로젝트
+<br>
 --- 
 
 * YoloProject_test - 본격적인 프로젝트 전 YOLOv5 모델으로 학습 테스트
@@ -12,3 +13,6 @@
 
 * master version(jpg) - 최종버전1 (입력포멧 : jpg)
 * master version(mp4) - 최종버전2 (입력포멧 : mp4)
+
+<br>
+## YOLOv7 파인튜닝 학습한 모델 - [Hugging Face 허깅페이스 모델](https://huggingface.co/taeseo06/Yolov7-KnifeDetectionFinetuningModel/tree/main)
