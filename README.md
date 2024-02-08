@@ -15,4 +15,4 @@
 * master version(mp4) - 최종버전2 (입력포멧 : mp4)
 
 <br>
-## YOLOv7 파인튜닝 학습한 모델 - [Hugging Face 허깅페이스 모델](https://huggingface.co/taeseo06/Yolov7-KnifeDetectionFinetuningModel/tree/main)
+## YOLOv7 파인튜닝 학습한 모델 : [Hugging Face 허깅페이스 모델](https://huggingface.co/taeseo06/Yolov7-KnifeDetectionFinetuningModel/tree/main)
